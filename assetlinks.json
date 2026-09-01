@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.sprightly_gingersnap_5ad3e4.twa",
+        "sha256_cert_fingerprints": ["F1:E3:D1:EE:4F:E8:98:CB:A8:37:E9:E8:46:DB:C7:B7:7D:B5:E8:C9:78:D3:6D:15:83:E5:5D:DE:5A:0B:A9:B6"]
+      }
+    }]
